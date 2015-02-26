@@ -5,4 +5,6 @@ implementation, operation, and maintenance of a relational database and associat
 
 More info see Project_Description.pdf.
 
+** Note that I no longer have access to the database so it's not possible to run the project.
+
 dk-mushiyoke
